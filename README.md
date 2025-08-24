@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ajay Singh<br>👨‍🎓 BCA Student | 💻 Data Analysis | 🍃 Learner From Uttarakhand<br>🌱 I’m currently learning Data Analysis & Data Science<br><br>👨‍💻 All of my projects are available at https://github.com/ajaysingh6097<br>📫 How to reach me ajaysingh60970@gmail.com<br>⚡ Fun fact I can Solve Rubik's Cube in less Than 2 Minutes
+Hi 👋, I'm Ajay Singh<br>👨‍🎓 BCA Student | 💻 Data Analysis | 🍃 Learner From Uttarakhand<br>🌱 I’m currently learning Data Analysis & Data Science<br><br>👨‍💻 All of my projects are available at https://github.com/ajaysingh6097<br>📫 How to reach me ajaysingh60970@gmail.com<br>⚡ Fun fact - I can Solve Rubik's Cube in less Than 2 Minutes
 
 
 ## 🌐 Socials:
